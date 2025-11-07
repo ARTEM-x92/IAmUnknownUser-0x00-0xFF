@@ -14,7 +14,7 @@ About My UserName: My UserName "ARTEM_x92" / "ARTEM-x92" / "ARTEMx92" Has Curren
 
 ## User Photo
 
-            ![banner_wide_dark](https://github.com/ARTEM-x92/UI_Icons-By-ARTEM_x92/blob/main/2/user_btn.png)
+![banner_wide_dark](https://github.com/ARTEM-x92/UI_Icons-By-ARTEM_x92/blob/main/2/user_btn.png)
 
 ## No User
 
