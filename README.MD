@@ -10,7 +10,7 @@ My Public BirthYaer Is "1992"
 
 I'm a Free, Independent, Non-Governmental Developer From Antarctica
 
-About My UserName: My UserName "ARTEM_x92" / "ARTEM-x92" / "ARTEMx92" Is Very Simple And Has Currently Used By Another Users, But I Was The First Person Who Used This UserName Since 2020 or Earlier.  (Checked On All Web Resources Before Creation)
+About My UserName: My UserName "ARTEM_x92" / "ARTEM-x92" / "ARTEMx92" Is Very Simple And Has Currently Used By Another Users, But I Was The First Person Who Used This UserName Since 2020 or Earlier.  (Checked On All Web Resources Before Using)
 
 ## User Photo
 
